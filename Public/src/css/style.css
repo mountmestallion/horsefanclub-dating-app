@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f3f0eb;
+  color: #3d2c14;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #ead7b7;
+  padding: 1em 0;
+  text-align: center;
+}
+main {
+  max-width: 600px;
+  margin: 2em auto;
+  background: #fffaf1;
+  border-radius: 10px;
+  padding: 2em;
+  box-shadow: 0 0 10px #e0dccf;
+}
+section {
+  margin-bottom: 2em;
+}
+a {
+  color: #a07630;
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover {
+  text-decoration: underline;
+}
+footer {
+  text-align: center;
+  padding: 1em;
+  background: #e8e0d0;
+}
